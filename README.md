@@ -10,7 +10,7 @@
 - LeaveRecordDetail
 <p align="left">
 Each class contains a page with their own function. 
-  <br>All the employees can log in the system by inputting thier ID and password
-  <br>After logging into the system, the user have three options to choose, which are Apply
+  <br>All the employees can log in the system by inputting thier ID and password.
+  <br>After logging into the system, the user have three options to choose, which are Leave Application, 
   can choose to fill out the leave application form to take a leave or 
   </p>
